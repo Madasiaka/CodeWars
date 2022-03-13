@@ -7,3 +7,4 @@ The input string will only consist of lower case letters and/or spaces. */
 function getCount(str) {
     return str.split('').filter(word => word == "a" || word == "e" || word == "i" || word == "o" || word == "u").length
   }
+  
