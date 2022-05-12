@@ -15,4 +15,4 @@ I consistently refactor and optimize my code, to improve readibility and efficie
 
 ## Lessons Learned:
 
-The greatest lesson I have learned in tackling this endless supply challenges is that there's always another way to go about a problem. Although one line solutions are pretty, they don't always form the most human readable code. Trying new and different methods can be fun.
+The greatest lesson I have learned in tackling this endless supply challenges is that there's always another way to go about a problem. Although one line solutions are pretty, they don't always form the most human readable code. Trying new and different methods is fun!
