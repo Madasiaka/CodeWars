@@ -1,6 +1,6 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Madasiaka/stats" >Visit Here</a> 
 
-![alt tag]()
+![alt tag](images/codewarsBanner.png)
 A repository filled with codewars challenges (kata). Completed over 100+ challenges - currently pushing 7 solutions every week.
 
 ## How It's Made:
