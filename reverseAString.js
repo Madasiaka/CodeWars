@@ -1,15 +1,13 @@
-/*
-Description
-We need a function that can transform a string into a number. What ways of achieving this do you know?
+// You need to write a function that reverses the words in a given string. A word can also fit an empty string. If this is not clear enough, here are some examples:
 
-Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.
+// As the input may have trailing spaces, you will also need to ignore unneccesary whitespace.
 
-Examples
-"1234" --> 1234
-"605"  --> 605
-"1405" --> 1405
-"-7" --> -7
-*/
-var stringToNumber = function(str){
-  return Number(str)
+// Example (Input --> Output)
+
+// "Hello World" --> "World Hello"
+// "Hi There." --> "There. Hi"
+// Happy coding!
+
+function reverse(string){
+  return string.split(' ').reverse().join(' ')
 }
