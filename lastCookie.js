@@ -10,4 +10,6 @@ function cookie(x){
     }else if (x === String(x)){
       return "Who ate the last cookie? It was Zach!"
     }else return "Who ate the last cookie? It was the dog!"
-  }
+  } 
+
+  
