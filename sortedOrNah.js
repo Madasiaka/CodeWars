@@ -16,5 +16,4 @@ function isSortedAndHow(array) {
     let forwards = [...array].sort((a, b) =>a - b)
     let backwards = [...forwards].reverse()
     return JSON.stringify(array) == JSON.stringify(forwards)? 'yes, ascending' : JSON.stringify(array) == JSON.stringify(backwards)? 'yes, descending' : 'no'
-    
   }
