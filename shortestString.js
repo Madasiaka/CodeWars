@@ -9,5 +9,5 @@ function findShort(s){
   }
   
   console.log(findShort('hello fr'), 2)
-  console.log(findShort("Let's travel abroad shall we"), 2))
+  console.log(findShort("Let's travel abroad shall we"), 2);
   console.log(findShort('hello why dont you work though you dumb array'), 3)
