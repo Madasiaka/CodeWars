@@ -4,7 +4,7 @@ Finish the solution so that it returns the sum of all the multiples of 3 or 5 be
 
 Note: If the number is a multiple of both 3 and 5, only count it once. */
 
-//given a number - positive or negative
+//given a number - positive or negative 
 //return a sum of all numbers below that number that are multiples of 3 or 5, or return 0
 
 function solution(number){
