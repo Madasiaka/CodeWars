@@ -12,3 +12,15 @@ function duckDuckGoose(players, goose) {
     let winNum = (goose - 1) % players.length
     return players[winNum].name
   }
+
+  //an array of players and integer number of who is 'it'
+//return the name of the 'it' player
+
+function duckDuckGoose(players, goose) {
+  // players.length % goose == 0
+  return players[(goose - 1) % players.length].name
+}
+
+// console.log(duckDuckGoose([a, b, c, d], 2), b)
+// console.log(duckDuckGoose([a, b, c, d], 1), a)
+// console.log(duckDuckGoose([a, b, c, d], 5), a)
